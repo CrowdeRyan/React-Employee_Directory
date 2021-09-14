@@ -9,6 +9,7 @@ bin-release/
 node_modules/
 .vscode
 .env
+build/
 
 
 # Executables
